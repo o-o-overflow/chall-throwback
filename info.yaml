@@ -1,0 +1,16 @@
+id: "throwback"
+title: "ghettohackers: Throwback"
+description: |
+  A guest challenge from ghettohackers!
+
+  This one is a throwback to those retro CTFs of yore (no flag wraper around this one):
+
+  `Anyo!e!howouldsacrificepo!icyforexecu!!onspeedthink!securityisacomm!ditytop!urintoasy!tem!`
+
+public_files: [
+]
+tags: ["misc"]
+author: "ghettohackers"
+stateful: false
+to_deploy: false
+is_ready: true
