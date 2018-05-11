@@ -3,7 +3,9 @@ title: "ghettohackers: Throwback"
 description: |
   A guest challenge from ghettohackers!
 
-  This one is a throwback to those retro CTFs of yore (no flag wraper around this one).
+  This one is a throwback to those retro CTFs of yore.
+
+  Flag format is nonstandard, there are no brackets.
 
 public_files: [
 "text"
